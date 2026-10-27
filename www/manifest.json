@@ -1,0 +1,9 @@
+{
+  "name": "HisabFit BD — Bangladeshi Calorie & BMI Tracker",
+  "short_name": "HisabFit BD",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#065f46",
+  "theme_color": "#065f46",
+  "orientation": "portrait-primary"
+}
